@@ -1,0 +1,4 @@
+collections:
+  - name: janleshy.homeassistant
+  - name: janleshy.home_lab_server
+  - name: devsec.hardening
