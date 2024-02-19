@@ -1,0 +1,25 @@
+## Ansible 
+*.retry
+*.log
+playbooks/
+inventory/
+ansible.cfg
+
+#Molecule
+molecule/*
+# # Imported collections
+collections/*
+
+# #Imported roles
+roles/*
+
+## Python virtual environment
+.ansible-home-lab-env/*
+
+#vscode
+.vscode
+
+
+
+
+

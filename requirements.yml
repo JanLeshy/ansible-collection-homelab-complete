@@ -2,3 +2,9 @@ collections:
   - name: janleshy.homeassistant
   - name: janleshy.home_lab_server
   - name: devsec.hardening
+  - name: mila.proxmox
+  - name: nginxinc.nginx_core
+roles:
+  - name: chubchubsancho.pi_hole
+  - name: hifis.unattended_upgrades
+  - name: hispanico.nginx_revproxy
