@@ -8,3 +8,4 @@ roles:
   - name: chubchubsancho.pi_hole
   - name: hifis.unattended_upgrades
   - name: hispanico.nginx_revproxy
+  - name: leggewie.radicale

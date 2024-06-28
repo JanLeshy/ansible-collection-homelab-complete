@@ -12,7 +12,7 @@ pip install -r requirements.txt
 echo "Ansible Python environment is ready"
 
 echo "Installing Ansible Collection"
-ansible-galaxy collection install -r requirements.yml 
+ansible-galaxy collection install -r requirements.yml --upgrade
 
 echo "Installing Ansible Roles"
-ansible-galaxy install -r requirements.yml 
+ansible-galaxy install -r requirements.yml --force

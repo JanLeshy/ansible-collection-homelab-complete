@@ -10,7 +10,14 @@ current running technologies and configurations, deployed via ansible:
 
 * [Homeassistant and ESPHome](https://github.com/JanLeshy/ansible-collection-homeassistant)
 
-
+ ~ [home lab server](
+ janleshy.home_lab_server
+ devsec.hardening
+ mila.proxmox
+ nginxinc.nginx_core
+ chubchubsancho.pi_hole
+ hifis.unattended_upgrades
+ hispanico.nginx_revproxy
 ## Requirements
 
 to run this collection you need to install the following requirements:
@@ -19,3 +26,5 @@ to run this collection you need to install the following requirements:
 ```shell
 ansible-galaxy install collection -r requirements.yml
 ```
+
+
