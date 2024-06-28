@@ -7,17 +7,16 @@ This collection prepares my all home lab servers, with some own collections and 
 current running technologies and configurations, deployed via ansible:
 
 * [DevSec Hardening](https://github.com/dev-sec/ansible-collection-hardening)
-
 * [Homeassistant and ESPHome](https://github.com/JanLeshy/ansible-collection-homeassistant)
+* [Home Lab Server](https://github.com/JanLeshy/ansible-collection-home-lab-server)
+* [Proxmox](https://github.com/mila-iqia/ansible-collection-proxmox)
+* [Nginx Core](https://github.com/nginxinc/ansible-collection-nginx)
+* [Nginx Revproxy](https://github.com/hispanico/ansible-nginx-revproxy)
+* [PI Hole](https://github.com/chubchubsancho/ansible-pi-hole)
+* [Unattended Upgrades](https://github.com/hifis-net/ansible-collection-toolkit)
 
- ~ [home lab server](
- janleshy.home_lab_server
- devsec.hardening
- mila.proxmox
- nginxinc.nginx_core
- chubchubsancho.pi_hole
- hifis.unattended_upgrades
- hispanico.nginx_revproxy
+
+
 ## Requirements
 
 to run this collection you need to install the following requirements:
