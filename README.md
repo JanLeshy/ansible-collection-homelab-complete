@@ -1,6 +1,6 @@
 # Ansible Collection - janleshy.
 
-This collection prepares my all home lab servers, with some won collecttions and roles, also with external collections.
+This collection prepares my all home lab servers, with some own collecttions and roles, also with external collections.
 
 ## Homelab Environment
 
