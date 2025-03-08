@@ -9,3 +9,5 @@ roles:
   - name: hifis.unattended_upgrades
   - name: hispanico.nginx_revproxy
   - name: leggewie.radicale
+  - name: samdoran.repo_epel
+  - name: samdoran.mosquitto
