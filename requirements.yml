@@ -1,9 +1,24 @@
 collections:
   - name: janleshy.homeassistant
+    version: "1.6.2"
   - name: janleshy.home_lab_server
+    version: "1.0.3"
   - name: devsec.hardening
+    version: "10.3.0"
   - name: mila.proxmox
+    version: "0.6.5"
   - name: nginxinc.nginx_core
+    version: "0.8.0"
+  - name: community.general
+    version: "10.5.0"
+  - name: community.crypto
+    version: "2.26.0"
+  - name: community.docker
+    version: "3.5.0"
+  - name: community.mysql
+    version: "3.13.0"
+  - name: ansible.posix
+    version: "2.0.0"
 roles:
   - name: chubchubsancho.pi_hole
   - name: hifis.unattended_upgrades
